@@ -6,3 +6,4 @@ output_data = open('output.txt', 'w')
 output_data.write(str(out))
 input_data.close()
 output_data.close()
+https://yandex.ru/q/question/kak_postroit_parabolu_v_python_cc888cad/
